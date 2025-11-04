@@ -24,6 +24,7 @@ Figure 2: The effect of kit inbreeding coefficient measured by internal relatedn
 
 ## Objectives 1B and 2
 <img width="468" height="468" alt="image" src="https://github.com/user-attachments/assets/ac2474b6-9755-4a5c-826a-1a816faaa128" />
+
 Figure 3: The effect of inbreeding in the New England cottontail captive breeding program on reproductive fitness measured at 3 stages: probability of birth (A, B, and C), litter size (D, E, and F), and weaning rate (G, H, and I). Inbreeding was measured by 3 metrics: dam individual inbreeding (A, D, and G), dam and sire pairwise relatedness (B, E, and H), and the distance between dam and sire trap locations (C, F, and I). In panels A-C, each point represents a dam-sire pairing; in panels D-I, each point represents a litter. Significant p values are lower than 0.05 and are written in red on the figures. Data were collected between 2011 and 2024.
 
 ## Objective 2
